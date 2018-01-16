@@ -2,7 +2,7 @@
 
   *FILE   		  :  Capstone project mm
   *PROJECT		  :  Truck space detection system
-  *PROGRAMMER     	  :  Ashni Upadhyay, Navreet kaur harika, Nimal krishna
+  *PROGRAMMER     	  :  Nimal krishna
   *FIRST VERSION  	  :  07/10/2017
   *DESCRIPTION   	  :  This project is  for detecting the free space available in the commercial trucks using the
   *				  :   UV sensor
