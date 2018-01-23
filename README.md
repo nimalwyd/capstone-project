@@ -1,6 +1,6 @@
 # About the project
 
-Project done by Nimal krishna for a truck free space detection system in c
+Project done by Nimal krishna. A  truck free space detection system in c
 
 ## Purpose of the project
 
